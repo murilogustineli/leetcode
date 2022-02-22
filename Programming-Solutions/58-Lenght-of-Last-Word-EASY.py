@@ -17,6 +17,12 @@ def lengthOfLastWord(s: str) -> int:
             return len(split[i])
 
 
+# Simple solution using strip()
+def lengthOfLastWordSimple(s: str) -> int:
+    s = s.strip().split()
+    return len(s[-1])
+
+
 # Main function with test cases
 def main():
     strings = [
@@ -25,9 +31,10 @@ def main():
         "luffy is still joyboy"
         ]
     for s in strings:
-        print(lengthOfLastWord(s))
+        print(lengthOfLastWord(s), lengthOfLastWordSimple(s))
 
 
 # Call main function
 if __name__ == '__main__':
     main()
+    
