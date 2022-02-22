@@ -31,10 +31,10 @@ def main():
         "luffy is still joyboy"
         ]
     for s in strings:
-        print(lengthOfLastWord(s), lengthOfLastWordSimple(s))
+        print(lengthOfLastWord(s))
+        # print(lengthOfLastWordSimple(s))
 
 
 # Call main function
 if __name__ == '__main__':
     main()
-    
