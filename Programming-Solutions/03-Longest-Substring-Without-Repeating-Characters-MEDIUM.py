@@ -7,12 +7,12 @@ def lengthOfLongestSubstring(s):
     strSet = set()
     start = output = 0
 
-    for idx in range(len(s)):
-        while s[idx] in strSet:
+    for index in range(len(s)):
+        while s[index] in strSet:
             strSet.remove(s[start])
             start += 1
-        strSet.add(s[idx])
-        output = max(output, idx - start + 1)
+        strSet.add(s[index])
+        output = max(output, index - start + 1)
     return output
 
 
