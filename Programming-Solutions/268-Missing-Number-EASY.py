@@ -4,10 +4,10 @@ https://leetcode.com/problems/missing-number/
 
 
 def missingNumber(nums):
-    n = list(range(len(nums)+1))
-    for i in range(len(n)):
-        if n[i] not in nums:
-            return n[i]
+    length = len(nums) + 1
+    for i in range(length):
+        if i not in nums:
+            return i
 
 
 # One liner
