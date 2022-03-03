@@ -38,7 +38,7 @@ def countBits(n):
 
 
 def main():
-    test_cases = [2, 5]
+    test_cases = [2, 5, 15]
     for n in test_cases:
         print(countBits_naive(n))
         print(countBits_slicing(n))
