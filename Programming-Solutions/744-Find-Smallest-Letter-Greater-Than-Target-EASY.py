@@ -11,12 +11,7 @@ def nextGreatestLetter(letters, target):
 
     while low <= high:
         mid = (low + high) // 2
-        if letters[mid] <= target:
-            if letters[mid] <= target and mid+1 < len(letters):
-                low = mid + 1
-                continue
-            return letters[mid+1]
-        elif letters[mid] < target:
+        if letters[mid] <= target and mid+1 < len(letters):
             low = mid + 1
         else:
             high = mid - 1
