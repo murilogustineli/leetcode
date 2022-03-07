@@ -22,6 +22,7 @@ def nextGreatestLetter(letters, target):
             high = mid - 1
     return letters[low]
 
+
 def main():
     test_cases = [
         [["c", "f", "j"], "a"],
