@@ -1,2 +1,2 @@
-# Leet Code
-Repor for storing my progress in solving Leet Code problems
+# LeetCode
+Repo for storing my progress in solving LeetCode programming problems
