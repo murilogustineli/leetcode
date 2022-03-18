@@ -27,19 +27,29 @@ def main():
           [0, 2],
           [3, 1],
           [3, 0, 3, 2, 10],
-          [3, 1], [0, 2]])
+          [3, 1], [0, 2]]),
+        (["SubrectangleQueries", "getValue", "updateSubrectangle", "getValue", "getValue", "updateSubrectangle",
+          "getValue"],
+         [[[1, 1, 1], [2, 2, 2], [3, 3, 3]],
+          [0, 0],
+          [0, 0, 2, 2, 100],
+          [0, 0],
+          [2, 2],
+          [1, 1, 2, 2, 20],
+          [2, 2]])
     ]
     output = []
     for array in test_cases:
+        iteration = []
         for string in range(len(array[0])):
             if array[0][string] == "SubrectangleQueries":
                 rectangle = array[1][0]
                 obj = SubrectangleQueries(rectangle)
-                output.append('null')
+                iteration.append('null')
             elif array[0][string] == "getValue":
                 row = array[1][string][0]
                 col = array[1][string][1]
-                output.append(obj.getValue(row, col))
+                iteration.append(obj.getValue(row, col))
                 # print(f"getValue: {obj.getValue(row, col)}")
             else:
                 row1 = array[1][string][0]
@@ -48,13 +58,16 @@ def main():
                 col2 = array[1][string][3]
                 newValue = array[1][string][4]
                 obj.updateSubrectangle(row1, col1, row2, col2, newValue)
-                output.append('null')
+                iteration.append('null')
                 # print(f'update: {obj.updateSubrectangle(row1, col1, row2, col2, newValue)}')
-    print(output)
+        output.append(iteration)
+    for i in output:
+        print(i)
 
 
 if __name__ == '__main__':
     main()
+
 
 # Your SubrectangleQueries object will be instantiated and called as such:
 # obj = SubrectangleQueries(rectangle)
