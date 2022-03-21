@@ -24,6 +24,9 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | 69. [Sqrt(x)](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/69-Sqrt(x)-EASY.py) | [sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 70. [Climbing Stairs](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/70-Climbing-Stairs-EASY.py) | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) |
 | 118. [Pascals Triangle](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/118-Pascals-Triangle-EASY.py) | [pascals-triangle](https://leetcode.com/problems/pascals-triangle/) |
+| 119. [Pascals Triangle II](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/119-Pascals-Triangle-II-EASY.py) | [pascals-triangle-II](https://leetcode.com/problems/pascals-triangle-ii/) |
+| 121. [Best Time to Buy and Sell Stock](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/121-Best-Time-to-Buy-and-Sell-Stock-EASY.py) | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 125. [Valid Palindrome](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/125-Valid-Palindrome-EASY.py) | [valid-palindrome](https://leetcode.com/problems/valid-palindrome/) |
 
 
 
