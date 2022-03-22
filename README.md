@@ -54,6 +54,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 238. [Product of Array Except Self](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/238-Product-of-Array-Except-Self-MEDIUM.py) | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) |
 | 287. [Find the Duplicate Number](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/287-Find-the-Duplicate-Number-MEDIUM.py) | [find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 442. [Find All Duplicates in an Array](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/442-Find-All-Duplicates-in-an-Array-MEDIUM.py) | [find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
 | 1476. [Subrectangle Queries](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/1476-Subrectangle-Queries-MEDIUM.py) | [subrectangle-queries](https://leetcode.com/problems/subrectangle-queries/) |
 
 
