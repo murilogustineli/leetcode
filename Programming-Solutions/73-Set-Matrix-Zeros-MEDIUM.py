@@ -24,11 +24,13 @@ def setZeros_NumPy(matrix):
 def setZeros(matrix):
     row = []
     col = []
+    # Iterate over array and identify rows and columns with zeros
     for i in range(len(matrix)):
         for j in range(len(matrix[i])):
             if matrix[i][j] == 0:
                 row.append(i)
                 col.append(j)
+    # Modify entire rows and columns in matrix
     for i in range(len(matrix)):
         for j in range(len(matrix[i])):
             if j in col:
