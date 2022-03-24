@@ -53,7 +53,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | Programming Problems | LeetCode link |
 | -------------------- | ------------- |
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 73. [Set Matrix Zeros](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/73-Set-Matrix-Zeroes-MEDIUM.py) | [set-matrix-zeros](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 73. [Set Matrix Zeroes](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/73-Set-Matrix-Zeroes-MEDIUM.py) | [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 238. [Product of Array Except Self](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/238-Product-of-Array-Except-Self-MEDIUM.py) | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) |
 | 287. [Find the Duplicate Number](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/287-Find-the-Duplicate-Number-MEDIUM.py) | [find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 442. [Find All Duplicates in an Array](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/442-Find-All-Duplicates-in-an-Array-MEDIUM.py) | [find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
