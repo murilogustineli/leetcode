@@ -4,7 +4,7 @@ https://leetcode.com/problems/set-matrix-zeroes/
 import numpy as np
 
 
-def setZeros_NumPy(matrix):
+def setZeroes_NumPy(matrix):
     row = []
     col = []
     for i in range(len(matrix)):
@@ -46,8 +46,8 @@ def main():
         [[0, 1, 2, 0], [3, 4, 5, 2], [1, 3, 1, 5]]
     ]
     for matrix in test_cases:
-        print(setZeros_NumPy(matrix))
-        print(setZeros(matrix))
+        print(setZeroes_NumPy(matrix))
+        print(setZeroes(matrix))
 
 
 if __name__ == '__main__':
