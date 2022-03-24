@@ -21,9 +21,8 @@ def setZeros_NumPy(matrix):
     return mat
 
 
-def setZeros(matrix):
-    row = []
-    col = []
+def setZeroes(matrix):
+    row, col = [], []
     # Iterate over array and identify rows and columns with zeros
     for i in range(len(matrix)):
         for j in range(len(matrix[i])):
