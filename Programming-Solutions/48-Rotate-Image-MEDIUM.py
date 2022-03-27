@@ -22,6 +22,11 @@ def rotate(matrix):
     return matrix
 
 
+# One-liner solution
+def rotate_simple(matrix):
+    return list(zip(*matrix[::-1]))
+
+
 def main():
     test_cases = [
         [[1, 2, 3],[4, 5, 6], [7, 8, 9]],  # [[7,4,1],[8,5,2],[9,6,3]]
