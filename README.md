@@ -48,7 +48,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | 2022. [Convert 1D Array Into 2D Array](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/2022-Convert-1D-Array-Into-2D-Array-EASY.py) | [convert-1d-array-into-2d-array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) |
 
 
-
+<br>
 
 ### Medium problems
 | Programming Problems | LeetCode link |
@@ -64,6 +64,13 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | 442. [Find All Duplicates in an Array](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/442-Find-All-Duplicates-in-an-Array-MEDIUM.py) | [find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
 | 1476. [Subrectangle Queries](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/1476-Subrectangle-Queries-MEDIUM.py) | [subrectangle-queries](https://leetcode.com/problems/subrectangle-queries/) |
 
+
+<br>
+
+### Hard problems
+| Programming Problems | LeetCode link |
+| -------------------- | ------------- |
+| 410. [Split Array Largest Sum](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/410-Split-Array-Largest-Sum-HARD.py) | [split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |
 
 
 <!---
