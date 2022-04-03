@@ -6,7 +6,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 --->
 
 ### Easy problems
-| Programming Problems | LeetCode link |
+| Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 01. [Two Sum](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/01-Two-Sum-EASY.py) | [two-sum](https://leetcode.com/problems/two-sum/) |
 | 09. [Padindrome Number](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/09-Palindrome-Number-EASY.py) | [palindrome-number](https://leetcode.com/problems/palindrome-number/) |
@@ -51,7 +51,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 <br>
 
 ### Medium problems
-| Programming Problems | LeetCode link |
+| Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 48. [Rotate Image](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/48-Rotate-Image-MEDIUM.py) | [rotate-image](https://leetcode.com/problems/rotate-image/) |
@@ -68,7 +68,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 <br>
 
 ### Hard problems
-| Programming Problems | LeetCode link |
+| Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 410. [Split Array Largest Sum](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/410-Split-Array-Largest-Sum-HARD.py) | [split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |
 
