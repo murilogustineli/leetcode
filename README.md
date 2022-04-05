@@ -5,7 +5,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 ![alt text](https://github.com/murilogustineli/LeetCode/blob/main/leetcode.png)
 --->
 
-### Easy problems
+## Easy problems
 | Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 01. [Two Sum](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/01-Two-Sum-EASY.py) | [two-sum](https://leetcode.com/problems/two-sum/) |
@@ -50,7 +50,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 
 <br>
 
-### Medium problems
+## Medium problems
 | Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
@@ -67,7 +67,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 
 <br>
 
-### Hard problems
+## Hard problems
 | Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 410. [Split Array Largest Sum](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/410-Split-Array-Largest-Sum-HARD.py) | [split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |
