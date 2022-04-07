@@ -54,6 +54,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | Programming Solution | LeetCode link |
 | -------------------- | ------------- |
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 07. [Reverse Integer](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/7-Reverse-Integer-MEDIUM.py) | [reverse-integer](https://leetcode.com/problems/reverse-integer/) |
 | 48. [Rotate Image](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/48-Rotate-Image-MEDIUM.py) | [rotate-image](https://leetcode.com/problems/rotate-image/) |
 | 54. [Spiral Matrix](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/54-Spiral-Matrix-MEDIUM.py) | [spiral-matrix](https://leetcode.com/problems/spiral-matrix/) |
 | 73. [Set Matrix Zeroes](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/73-Set-Matrix-Zeroes-MEDIUM.py) | [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |
