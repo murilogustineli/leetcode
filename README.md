@@ -53,6 +53,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 ## Medium problems
 | Programming Solution | LeetCode link |
 | -------------------- | ------------- |
+| 02. [Add Two Numbers](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/02-Add-Two-Numbers-MEDIUM.py) | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/) |
 | 03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 07. [Reverse Integer](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/7-Reverse-Integer-MEDIUM.py) | [reverse-integer](https://leetcode.com/problems/reverse-integer/) |
 | 48. [Rotate Image](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/48-Rotate-Image-MEDIUM.py) | [rotate-image](https://leetcode.com/problems/rotate-image/) |
