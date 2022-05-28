@@ -31,6 +31,7 @@ Repo for storing my progress in solving [**LeetCode**](https://leetcode.com/prob
 | 168. [Excel Sheet Column Title](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/168-Excel-Sheet-Column-Title-EASY.py) | [excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/) |
 | 169. [Majority Element](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/169-Majority-Element-EASY.py) | [majority-element](https://leetcode.com/problems/majority-element/) |
 | 171. [Excel Sheet Column Number](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/171-Excel-Sheet-Column-Number-EASY.py) | [excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/) |
+| 202. [Happy Number](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/202-Happy-Number-EASY.py) | [happy-number](https://leetcode.com/problems/happy-number/) |
 | 217. [Contains Duplicate](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/217-Contains-Duplicates-EASY.py) | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) |
 | 228. [Summary Ranges](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/228-Summary-Ranges-EASY.py) | [summary-ranges](https://leetcode.com/problems/summary-ranges/) |
 | 258. [Add Digits](https://github.com/murilogustineli/LeetCode/blob/main/Programming-Solutions/258-Add-Digits-EASY.py) | [add-digits](https://leetcode.com/problems/add-digits/) |
