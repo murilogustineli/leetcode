@@ -10,7 +10,7 @@ def twoSum(nums, target):
         remaining = target - nums[i]
 
         if remaining in seen:
-            return [i, seen[remaining]]
+            return [seen[remaining], i]
 
         seen[value] = i
 
