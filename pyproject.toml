@@ -1,0 +1,23 @@
+[project]
+name = "leetcode"
+version = "0.0.1"
+authors = [{ name = "Murilo Gustineli", email = "murilogustineli@gmail.com" }]
+description = "LeetCode helper package"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/murilogustineli/leetcode"
+Issues = "https://github.com/murilogustineli/leetcode/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.dynamic]
+dependencies = { file = "requirements.txt" }
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["leetcode"]
+namespaces = false
