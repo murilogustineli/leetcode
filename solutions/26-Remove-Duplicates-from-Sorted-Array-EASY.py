@@ -4,17 +4,14 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 
 def removeDuplicates(nums):
-    # k is slow pointer
-    k = 0
-    for n in nums:
-        if n != nums[k]:
-            # increment slow pointer once
-            k += 1
-            nums[k] = n
-
-    return k + 1
+    l = 1
+    for r in range(1, len(nums)):
+        if nums[r] != nums[r - 1]:
+            nums[l] = nums[r]
+            l += 1
+    return l  # length of the array with unique elements is returned
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     nums = [1, 1, 2]
     print(removeDuplicates(nums))
